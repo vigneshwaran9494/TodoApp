@@ -1,4 +1,5 @@
 ## TODO APP
+
   ###Sample Todo App
   
 ### Features
@@ -11,8 +12,15 @@
 6. Implement Redux
 7. Add Test Coverage
 
-###Sample Video
 
-###Test Coverage
+### Sample Video
 
-###End
+   ![](https://github.com/vigneshwaran9494/TodoApp/blob/458f2dd0b4236146a524488d1f1bf877bb2815a0/screens/Screen1.png)
+### Sample Screen
+  
+   ![](https://github.com/vigneshwaran9494/TodoApp/blob/458f2dd0b4236146a524488d1f1bf877bb2815a0/screens/Screen1.png)
+
+### Test Coverage
+
+   ![](https://github.com/vigneshwaran9494/TodoApp/blob/458f2dd0b4236146a524488d1f1bf877bb2815a0/screens/TestScreen.png)
+### End
