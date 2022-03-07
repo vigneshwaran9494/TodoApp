@@ -15,7 +15,7 @@
 
 ### Sample Video
 
-   ![](https://github.com/vigneshwaran9494/TodoApp/blob/458f2dd0b4236146a524488d1f1bf877bb2815a0/screens/Screen1.png)
+   ![](https://github.com/vigneshwaran9494/TodoApp/blob/674f87c2a59e7adc4137fd699cdcb3edee1df947/screens/SampleRecording.mov)
 ### Sample Screen
   
    ![](https://github.com/vigneshwaran9494/TodoApp/blob/458f2dd0b4236146a524488d1f1bf877bb2815a0/screens/Screen1.png)
