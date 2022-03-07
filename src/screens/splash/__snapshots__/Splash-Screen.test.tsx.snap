@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SplashScreen should show version 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Object {
+      "alignItems": "center",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#4527a0",
+        "fontFamily": "Futura",
+        "fontSize": 24,
+      }
+    }
+    testID="logoTestText"
+  >
+    Todo App
+  </Text>
+  <Text
+    style={
+      Object {
+        "fontFamily": "Futura",
+        "fontSize": 10,
+        "marginTop": "80%",
+      }
+    }
+  >
+    Version 1.0
+  </Text>
+</RCTSafeAreaView>
+`;
